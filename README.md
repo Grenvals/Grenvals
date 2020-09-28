@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**Grenvals/Grenvals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+![ezgif-7-0fb1ea0ff365](https://user-images.githubusercontent.com/40334272/94415425-2dc40a80-0186-11eb-9652-8e29a6425095.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
